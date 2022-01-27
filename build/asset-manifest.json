@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77d4bc08.chunk.css",
+    "main.js": "/static/js/main.0e0362a8.chunk.js",
+    "main.js.map": "/static/js/main.0e0362a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92360f4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92360f4f.js.map",
+    "static/js/2.1fd83241.chunk.js": "/static/js/2.1fd83241.chunk.js",
+    "static/js/2.1fd83241.chunk.js.map": "/static/js/2.1fd83241.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.595c10070928fa51ce949b1c9889cfba.js": "/precache-manifest.595c10070928fa51ce949b1c9889cfba.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.77d4bc08.chunk.css.map": "/static/css/main.77d4bc08.chunk.css.map",
+    "static/js/2.1fd83241.chunk.js.LICENSE.txt": "/static/js/2.1fd83241.chunk.js.LICENSE.txt",
+    "static/media/master.scss": "/static/media/home-real-estate-106399.78edc221.jpg",
+    "static/media/landlordReview.svg": "/static/media/landlordReview.32298cba.svg",
+    "static/media/peterGriffin404.jpg": "/static/media/peterGriffin404.e59ab7fa.jpg",
+    "static/media/star-regular.svg": "/static/media/star-regular.18484388.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92360f4f.js",
+    "static/js/2.1fd83241.chunk.js",
+    "static/css/main.77d4bc08.chunk.css",
+    "static/js/main.0e0362a8.chunk.js"
+  ]
+}

@@ -1,0 +1,80 @@
+h1 {
+  font-size: 35px;
+}
+p {
+  font-size: 20px;
+  color: black;
+}
+
+.background-image {
+  background-image: url("../img/home-real-estate-106399.jpg");
+  background-size: cover;
+  min-height: 100vh;
+}
+#background-buildings {
+  background-image: url("../img/high-angle-photography-of-high-rise-buildings-near-road-681331.jpg");
+  background-size: cover;
+  min-height: 250vh;
+}
+
+.title {
+  color: #f5f5f5;
+}
+.subTitle {
+  color: #f5f5f5;
+  margin-top: 20px;
+}
+.form-inline {
+  justify-content: center;
+  margin-top: 20px;
+}
+#searchBar {
+  width: 380px;
+  border-radius: 5px 0 0 5px;
+  border: 2px solid #ccc;
+  border-right: none;
+  outline: none;
+}
+
+#searchButton {
+  height: 38px;
+  border-radius: 0 5px 5px 0;
+  line-height: 30px;
+  width: 100px;
+  color: #f5f5f5;
+}
+#reviewCard {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.card {
+  margin: 0 auto;
+}
+.btn-primary {
+  color: #f5f5f5;
+  background-color: transparent;
+  border-color: #666877;
+}
+.btn-primary:hover {
+  background-color: #666877;
+}
+.btn-secondary {
+  color: #f5f5f5;
+  background-color: #666877;
+  border-color: #666877;
+}
+.modalHack {
+  display: block;
+  opacity: 1 !important;
+}
+.modalCard {
+  padding-right: 20px;
+  padding-left: 60px;
+  margin-left: 30px;
+}
+
+.star {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
